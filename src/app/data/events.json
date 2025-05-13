@@ -1,0 +1,14 @@
+[
+  { "name": "Taller introductorio a CTF",             "date": "2025-04-26" },
+  { "name": "Taller de criptografía",                   "date": "2025-05-03" },
+  { "name": "Taller OSINT",                             "date": "2025-05-10" },
+  { "name": "Taller seguridad web",                     "date": "2025-05-17" },
+  { "name": "CTF Nacional de Primavera",                "date": "2025-05-24" },
+  { "name": "Taller Ingeniería inversa",                "date": "2025-05-31" },
+  { "name": "Taller Explotación de vulnerabilidades",   "date": "2025-06-07" },
+  { "name": "Mini CTF todas las categorías",            "date": "2025-08-02" },
+  { "name": "Taller Análisis forense",                  "date": "2025-08-09" },
+  { "name": "Taller de esteganografía y misc",          "date": "2025-08-16" },
+  { "name": "Taller de scripting",                      "date": "2025-08-23" },
+  { "name": "CTF Interno CSIRT-UCB",                    "date": "2025-08-30" }
+]
