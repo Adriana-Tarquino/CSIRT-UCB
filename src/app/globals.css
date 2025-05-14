@@ -24,3 +24,9 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.bg-fondo {
+  background-image: url('../../public/img/fondo.jpeg');
+  background-size: cover;
+  background-position: center;
+}

@@ -1,9 +1,9 @@
-import React from 'react';
-import { CSIRTHeader } from './CSIRTHeader';
-import { CSIRTHero } from './CSIRTHero';
-import { CSIRTAbout } from './CSIRTAbout';
-import { CSIRTCalendar } from './CSIRTCalendar';
-import EventosYRepresentantes from './EventosYRepresentantes';
+import React from "react";
+import { CSIRTHeader } from "./CSIRTHeader";
+import { CSIRTHero } from "./CSIRTHero";
+import { CSIRTAbout } from "./CSIRTAbout";
+import { CSIRTCalendar } from "./CSIRTCalendar";
+import EventosYRepresentantes from "./EventosYRepresentantes";
 
 export const CSIRTLayout = () => {
   return (
@@ -15,7 +15,9 @@ export const CSIRTLayout = () => {
       <EventosYRepresentantes />
       <footer className="bg-gray-800 text-white text-center py-6">
         <div className="container mx-auto">
-          <p>© {new Date().getFullYear()} CSIRT. Todos los derechos reservados.</p>
+          <p>
+            © {new Date().getFullYear()} CSIRT. Todos los derechos reservados.
+          </p>
         </div>
       </footer>
     </div>

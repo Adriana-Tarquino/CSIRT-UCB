@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Sebastian Beller",
+    "universityDegree": "Ing. de Sistemas",
+    "specialization": "Reversing",
+    "image": "/img/default.jpg"
+  },
+  {
+    "name": "Adriana Tarquino",
+    "universityDegree": "Ing. de Sistemas",
+    "specialization": "Stego",
+    "image": "/img/default.jpg"
+
+  },
+  {
+    "name": "Melina Gutierrez",
+    "universityDegree": "Ing. de Sistemas",
+    "specialization": "Crypto",
+    "image": "/img/default.jpg"
+
+  },
+  {
+    "name": "Sergio Bustamante",
+    "universityDegree": "Ing. de Sistemas",
+    "specialization": "Crypto",
+    "image": "/img/default.jpg"
+
+  },
+  {
+    "name": "Isamael Delgado",
+    "universityDegree": "Ing. de Sistemas",
+    "specialization": "CiberSeguridad Gr.",
+    "image": "/img/default.jpg"
+
+  }
+]
